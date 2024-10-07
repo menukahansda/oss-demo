@@ -3,3 +3,4 @@ twinkle twinkle little star
 git init - initialisation
 git add . - stage all changes made
 git commit -a -m "message"- commit all changes with msg
+git push <remote name> <branch name> -- to push
