@@ -10,3 +10,4 @@ git config --global user.name "Menuka"
 --global = changes default editor to vscode
 "" = as a string, no problem in taking username or email
 git config --global core.editor "code --wait"
+--wait = if forget to write msg in commit then it wait for the file to be closed where you will write the new msg
