@@ -3,6 +3,7 @@ twinkle twinkle little star
 git init - initialisation
 git add . - stage all changes made
 git commit -a -m "message"- commit all changes with msg
+>>> copy the git repo url -> source control -> 3 dots -> remote -> add -> paste repo -> remote name add
 git push <remote name> <branch name> -- to push
 git config --global user.mail "menukahansda199@gmail.com"
 git config --global user.name "Menuka"
