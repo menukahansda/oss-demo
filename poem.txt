@@ -18,3 +18,7 @@ git config --global core.editor "code --wait"
 git branch = shows all available branches and points to head
 git branch <branchname> = creates new branch
 git switch <branchname> = switch to that branch
+
+git switch -c <branchname> = creates and switches to that branch
+git checkout <branchname> = switches to that branch -- same as switch -- mostly used
+git merge <branchname> = merge new branch to branch where head points now
