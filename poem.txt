@@ -14,3 +14,7 @@ git config --global core.editor "code --wait"
 --wait = if forget to write msg in commit then it wait for the file to be closed where you will write the new msg
 
 .gitkeep in empty folder = keep tracks of the folder
+
+git branch = shows all available branches and points to head
+git branch <branchname> = creates new branch
+git switch <branchname> = switch to that branch
