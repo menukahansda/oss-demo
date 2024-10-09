@@ -4,5 +4,8 @@ git init - initialisation
 git add . - stage all changes made
 git commit -a -m "message"- commit all changes with msg
 git push <remote name> <branch name> -- to push
-git config user.mail "menukahansda199@gmail.com"
-git config user.name "Menuka"
+git config --global user.mail "menukahansda199@gmail.com"
+git config --global user.name "Menuka"
+
+--global = changes default editor to vscode
+"" = as a string, no problem in taking username or email
